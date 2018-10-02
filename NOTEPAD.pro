@@ -20,3 +20,5 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     Resource.qrc
+
+include(gitversion.pri)
